@@ -27,9 +27,11 @@ Samsung SSD 860 EVO  S3Z9NB0K123456X
 
  
  3. ## 💻 Comandos CMD voltados para hardware
- **Comando:** ``  
- **Função:**   
- **Uso:** 
+ **Comando:** `wmic memorychip get capacity,speed`  
+ **Função:**  Mostra a capacidade (em bytes) e velocidade da memória RAM instalada. 
+ **Uso:** Conferir quantidade e velocidade de cada módulo de RAM.
+
+ 
 
 ## 👤 Autor
 Seu nome completo
